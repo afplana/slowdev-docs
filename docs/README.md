@@ -1,1 +1,1 @@
-# Own develpment docs
+# Own development docs
