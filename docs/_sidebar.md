@@ -8,4 +8,4 @@
 
 * Guides
   * [AWK Programming Language](guides/awk_programming_language.md)
-  * [Json Processing with `jq`](guides/jq_json_processing_guide.md)
+  * [Json Processing with `jq`](guides/jq_json_processing.md)
