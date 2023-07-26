@@ -1,4 +1,4 @@
-# JSON Processor Guide 'jq'
+# Json Processing with `jq`
 
 `jq` is a lightweight, command-line JSON processor. It's designed to work with JSON data in a shell scripting environment.
 
