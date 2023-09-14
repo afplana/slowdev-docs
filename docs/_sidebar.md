@@ -5,6 +5,7 @@
   * [Understanding and tackling frequent 'OOM Killed' in JVM Applications running on Kubernetes](articles/oom_killed_in_jvm_applications.md)
   * [Best Practices for Micro-services Communication](articles/micro-services_communication_best_practices.md)
   * [Understanding AWS EBSIOBalance% for RDS](articles/understanding_aws_ebsio_balance_rds.md)
+  * [Navigating the Complex Terrain of AWS RDS Upgrades: Lessons from a Major PostgreSQL Engine Upgrade](articles/rds_upgrades_lessons_from_a_major_postgresql_engine_upgrade.md)
 
 * Guides
   * [AWK Programming Language](guides/awk_programming_language.md)
