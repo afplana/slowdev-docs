@@ -45,8 +45,8 @@ For latency-sensitive applications, it's essential to design services to operate
 
 *Communication:*
 
-On-Call Team Alert: Ensure that your on-call team is aware of the planned changes and understands the potential issues.
-Product Team Engagement: Involve the product team in the process and brief them on the possible impacts during downtime. This enables them to prepare for customer inquiries and to evaluate the impact more accurately.
+- On-Call Team Alert: Ensure that your on-call team is aware of the planned changes and understands the potential issues.
+- Product Team Engagement: Involve the product team in the process and brief them on the possible impacts during downtime. This enables them to prepare for customer inquiries and to evaluate the impact more accurately.
 
 ## Performance Optimization and Monitoring
 
