@@ -58,7 +58,7 @@ And for Maven, you would add it to your pom.xml file like this:
 
 - Bind the stub server port: You can do this in the test application context with the wiremock.server.port property.
 - Start using WireMock in your integration tests: With the @AutoConfigureWireMock annotation, a stub server will start, and you can use a value of 0 for a random port.
-- Note: Body matchers can trigger a non-match when the attributes are not in the expected order or they have the expected format.
+- Note: Body matchers can trigger a non-match when the attributes are not in the expected order or they don't have the expected format.
 
 ## Conclusion
 
