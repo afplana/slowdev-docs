@@ -8,6 +8,7 @@
   - [Understanding AWS EBSIOBalance% for RDS](articles/understanding_aws_ebsio_balance_rds.md)
   - [Navigating the Complex Terrain of AWS RDS Upgrades: Lessons from a Major PostgreSQL Engine Upgrade](articles/rds_upgrades_lessons_from_a_major_postgresql_engine_upgrade.md)
   - [Mastering PromQL for Effective Monitoring with Prometheus](articles/promql_for_effective_monitoring_with_prometheus.md)
+  - [Automate local setup with Ansible](articles/automate-local-setup-with-ansible.md)
 
 - Guides
   - [AWK Programming Language](guides/awk_programming_language.md)
