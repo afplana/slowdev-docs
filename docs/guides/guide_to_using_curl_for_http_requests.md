@@ -4,14 +4,30 @@ In this guide, we will explore curl, a powerful command-line tool for transferri
 
 ## Table of Contents
 
-1. Introduction to curl
-2. Basic curl Usage
-3. Making HTTP Requests
-4. Passing Request Bodies
-5. Basic Authentication
-6. Using JWT for Authentication
-7. Advanced curl Usage
-8. Conclusion
+- [Comprehensive Guide to Using curl for HTTP Requests](#comprehensive-guide-to-using-curl-for-http-requests)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction to curl](#introduction-to-curl)
+  - [Basic curl Usage](#basic-curl-usage)
+    - [Checking the Version](#checking-the-version)
+    - [Making a Simple GET Request](#making-a-simple-get-request)
+  - [Making HTTP requests](#making-http-requests)
+    - [GET](#get)
+    - [POST](#post)
+    - [PUT](#put)
+    - [DELETE](#delete)
+  - [Passing Request Bodies](#passing-request-bodies)
+    - [JSON Data](#json-data)
+    - [Form Data](#form-data)
+  - [Basic Authentication](#basic-authentication)
+    - [Using JWT for Authentication](#using-jwt-for-authentication)
+  - [Advanced curl Usage](#advanced-curl-usage)
+    - [Uploading Files](#uploading-files)
+    - [Handling Redirects](#handling-redirects)
+    - [Setting Custom Headers](#setting-custom-headers)
+    - [Verbose Output](#verbose-output)
+    - [Saving Response to a File](#saving-response-to-a-file)
+    - [Rate Limiting and Retry](#rate-limiting-and-retry)
+  - [Conclusion](#conclusion)
 
 ## Introduction to curl
 
